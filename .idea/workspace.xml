@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="" />
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/components/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="testbranch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GronskaDaria"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:GronskaDaria/ThreeJS.git",
+    "accountId": "9b82f0c5-f03b-4baa-830a-69108a2c25ab"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -57,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761164504924</updated>
-      <workItem from="1761164506534" duration="15242000" />
+      <workItem from="1761164506534" duration="17791000" />
     </task>
     <servers />
   </component>
@@ -65,11 +89,38 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -81,7 +132,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/portfolio_Tym/src/components/HeroModels/Room.jsx</url>
           <line>5</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
