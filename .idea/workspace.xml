@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="">
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add animatedCounter section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/components/Button.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +77,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761164504924</updated>
-      <workItem from="1761164506534" duration="17791000" />
+      <workItem from="1761164506534" duration="23300000" />
     </task>
+    <task id="LOCAL-00001" summary="add animatedCounter section">
+      <option name="closed" value="true" />
+      <created>1761604585246</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761604585246</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +130,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add animatedCounter section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add animatedCounter section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
