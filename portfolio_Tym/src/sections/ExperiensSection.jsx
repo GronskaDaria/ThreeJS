@@ -1,7 +1,6 @@
 const ExperiensSection = () => {
     return (
         <div>
-
         </div>
 
     )
