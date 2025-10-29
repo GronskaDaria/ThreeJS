@@ -1,4 +1,4 @@
-import {logoIconsList} from "../../constants/index.js";
+import {logoIconsList} from "../constants/index.js";
 
 const LogoSection = () => {
     const LogoIcon = ({icon}) => {
