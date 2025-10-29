@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add position and description work experience timeline">
-      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/components/Models/TechLogos/TechIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/TeckStack.jsx" afterDir="false" />
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add skills cards with 3D logo">
+      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/Testimonials.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" afterDir="false" />
     </list>
@@ -85,7 +84,7 @@
       <workItem from="1761164506534" duration="34755000" />
       <workItem from="1761766952102" duration="2016000" />
       <workItem from="1761769634336" duration="241000" />
-      <workItem from="1761769895246" duration="9734000" />
+      <workItem from="1761769895246" duration="10255000" />
     </task>
     <task id="LOCAL-00001" summary="add animatedCounter section">
       <option name="closed" value="true" />
@@ -167,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761775932958</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add skills cards with 3D logo">
+      <option name="closed" value="true" />
+      <created>1761779804229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761779804229</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +229,8 @@
     <MESSAGE value="add TitleHeader for Experiens Section" />
     <MESSAGE value="add testimonials cards" />
     <MESSAGE value="add position and description work experience timeline" />
-    <option name="LAST_COMMIT_MESSAGE" value="add position and description work experience timeline" />
+    <MESSAGE value="add skills cards with 3D logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add skills cards with 3D logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
