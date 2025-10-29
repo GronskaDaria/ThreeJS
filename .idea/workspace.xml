@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add testimonials cards">
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add position and description work experience timeline">
+      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/components/Models/TechLogos/TechIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/TeckStack.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/ExperiensSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/ExperiensSection.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,7 @@
       <workItem from="1761164506534" duration="34755000" />
       <workItem from="1761766952102" duration="2016000" />
       <workItem from="1761769634336" duration="241000" />
-      <workItem from="1761769895246" duration="5834000" />
+      <workItem from="1761769895246" duration="9734000" />
     </task>
     <task id="LOCAL-00001" summary="add animatedCounter section">
       <option name="closed" value="true" />
@@ -157,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761773610563</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add position and description work experience timeline">
+      <option name="closed" value="true" />
+      <created>1761775932958</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761775932958</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +221,8 @@
     <MESSAGE value="add FeatureCards Section to App view" />
     <MESSAGE value="add TitleHeader for Experiens Section" />
     <MESSAGE value="add testimonials cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="add testimonials cards" />
+    <MESSAGE value="add position and description work experience timeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="add position and description work experience timeline" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
