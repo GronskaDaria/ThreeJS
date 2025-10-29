@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add LogoSection">
-      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/FeatureCards.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/components/HeroModels/LogoSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/LogoSection.jsx" afterDir="false" />
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add FeatureCards Section">
+      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/ExperiensSection.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -80,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761164504924</updated>
-      <workItem from="1761164506534" duration="33909000" />
+      <workItem from="1761164506534" duration="34419000" />
     </task>
     <task id="LOCAL-00001" summary="add animatedCounter section">
       <option name="closed" value="true" />
@@ -114,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761764267974</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add FeatureCards Section">
+      <option name="closed" value="true" />
+      <created>1761766094346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761766094346</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +169,8 @@
     <MESSAGE value="add NavBar" />
     <MESSAGE value="implement NavBar" />
     <MESSAGE value="add LogoSection" />
-    <option name="LAST_COMMIT_MESSAGE" value="add LogoSection" />
+    <MESSAGE value="add FeatureCards Section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FeatureCards Section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
