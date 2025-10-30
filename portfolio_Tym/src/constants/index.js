@@ -22,10 +22,6 @@ const words = [
     { text: "Concepts", imgPath: "/images/concepts.svg" },
     { text: "Designs", imgPath: "/images/designs.svg" },
     { text: "Code", imgPath: "/images/code.svg" },
-    { text: "Ideas", imgPath: "/images/ideas.svg" },
-    { text: "Concepts", imgPath: "/images/concepts.svg" },
-    { text: "Designs", imgPath: "/images/designs.svg" },
-    { text: "Code", imgPath: "/images/code.svg" },
 ];
 
 const counterItems = [
@@ -36,37 +32,44 @@ const counterItems = [
 ];
 
 const logoIconsList = [
-    {
+    {   name:"company_1",
         imgPath: "/images/logos/company-logo-1.png",
     },
     {
+        name:"company_2",
         imgPath: "/images/logos/company-logo-2.png",
     },
-    {
+    {   name:"company_3",
         imgPath: "/images/logos/company-logo-3.png",
     },
-    {
+    {   name:"company_4",
         imgPath: "/images/logos/company-logo-4.png",
     },
-    {
+    {   name:"company_5",
         imgPath: "/images/logos/company-logo-5.png",
     },
     {
+        name:"company_6",
         imgPath: "/images/logos/company-logo-6.png",
     },
     {
+        name:"company_7",
         imgPath: "/images/logos/company-logo-7.png",
     },
     {
+        name:"company_8",
         imgPath: "/images/logos/company-logo-8.png",
     },
     {
+        name:"company_9",
         imgPath: "/images/logos/company-logo-9.png",
     },
     {
+        name:"company_10",
         imgPath: "/images/logos/company-logo-10.png",
     },
     {
+        name:"company_11",
         imgPath: "/images/logos/company-logo-11.png",
     },
 ];
@@ -127,7 +130,7 @@ const techStackIcons = [
     },
     {
         name: "Backend Developer",
-        modelPath: "/models/node-transformed.glb",
+        modelPath: "/models/node.glb",
         scale: 5,
         rotation: [0, -Math.PI / 2, 0],
     },
