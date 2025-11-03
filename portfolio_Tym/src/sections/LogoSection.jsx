@@ -5,7 +5,6 @@ const LogoSection = () => {
         return (
             <div className="flex items-center gap-2">
                 <img src={icon.imgPath} alt={icon.name}/>
-                <span>{icon.name}</span>
             </div>
         )
     }

@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add Testimonials section">
-      <change afterPath="$PROJECT_DIR$/portfolio_Tym/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/Contact.jsx" afterDir="false" />
+    <list default="true" id="efcfbce9-2339-4657-b865-43d3c2d62396" name="Changes" comment="add contact section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/public/models/node-transformed.glb" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/public/models/node.glb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/constants/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/AnimatedCounter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/ExperiensSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/ExperiensSection.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_Tym/src/sections/LogoSection.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_Tym/src/sections/LogoSection.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +85,7 @@
       <workItem from="1761164506534" duration="34755000" />
       <workItem from="1761766952102" duration="2016000" />
       <workItem from="1761769634336" duration="241000" />
-      <workItem from="1761769895246" duration="18186000" />
+      <workItem from="1761769895246" duration="20366000" />
     </task>
     <task id="LOCAL-00001" summary="add animatedCounter section">
       <option name="closed" value="true" />
@@ -193,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761780299443</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add contact section">
+      <option name="closed" value="true" />
+      <created>1761861153757</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761861153757</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +248,8 @@
     <MESSAGE value="add position and description work experience timeline" />
     <MESSAGE value="add skills cards with 3D logo" />
     <MESSAGE value="add Testimonials section" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Testimonials section" />
+    <MESSAGE value="add contact section" />
+    <option name="LAST_COMMIT_MESSAGE" value="add contact section" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,12 +263,6 @@
           <url>file://$PROJECT_DIR$/portfolio_Tym/src/components/NavBar.jsx</url>
           <line>6</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/portfolio_Tym/src/sections/LogoSection.jsx</url>
-          <line>19</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
